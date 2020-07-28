@@ -1,2 +1,7 @@
 # MrPeteys_kiCAD_Parts
- Parts I created for some of my projects. 
+
+Enclosed are parts that I have created and used for various projects. They are 
+free to be used by all. They are provided as is. 
+
+# ELM401
+
